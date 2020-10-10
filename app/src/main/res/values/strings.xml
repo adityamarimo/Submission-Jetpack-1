@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="daterelease">Date Release</string>
+    <string name="title_activity_detail">Detail Film</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="genre">Genre</string>
+    <string name="description_detail">Overview</string>
+    <string name="rating">Rating Users : 75%</string>
+    <string name="duration">2h 15m</string>
+    <string name="home">Home</string>
+    <string name="tv">Tv Shows</string>
+</resources>
